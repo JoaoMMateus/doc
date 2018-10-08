@@ -30,13 +30,14 @@ https://docs.google.com/forms/d/e/1FAIpQLSfan3cshpWVFgAtbXtxD-x-l6yve3GGK72_kIQZ
 - 7 / Idem 5 & 6 mais par pays 
 - 8 / Calculer la moyene des points & prix par cépage 
 - 9 / Qu'est ce qui impacte le plus le prix de vente ?
-- 9 bis / vous pouvez aussi chercher si le chateau a un impact
+- 9 bis / Comment pouvez-vous mesurez si le château ?
 - 10 / Ajouter à votre analyse le revenu moyen des états producteurs comme pondérateurs des prix.
 vous allez devoir trouver la donnée, puis trouver comment la relier à votre table existante
 - 11 / créer un pipeline pour transformer à minima les colones variety country, et point en features et price en label.
 - 11 / Entrainer le modèle de votre choix (régression logistique par exemple) sur ces données
 - 12 / sauver votre modele et votre pipeline
-- 13 / produire une prevision pour un vin français avec du grenache et une note de 92.
+- 13 / produire une prevision pour un vin français avec du Pinot Noir et une note de 92.
 
+Bonus : extraire de nouvelles colonnes depuis la description
 
 
