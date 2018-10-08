@@ -18,6 +18,11 @@ https://docs.google.com/forms/d/e/1FAIpQLSfan3cshpWVFgAtbXtxD-x-l6yve3GGK72_kIQZ
 
 # TD sur la base du fichier winemag_data_first150k-8c60b.csv
 
+- 0 / créer un notebook:
+la première cellule doit contenir : 
+``import org.apache.spark.sql.functions._
+import spark.implicits._```
+
 - 1 / Loader le ficher csv
 - 2 / Typer la dataframe, notament les points et les prix
 - 2 Bis / sauvegarder la donnée en parquet, partitioner par état
