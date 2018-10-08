@@ -20,8 +20,10 @@ https://docs.google.com/forms/d/e/1FAIpQLSfan3cshpWVFgAtbXtxD-x-l6yve3GGK72_kIQZ
 
 - 0 / créer un notebook:
 la première cellule doit contenir : 
-``import org.apache.spark.sql.functions._
-import spark.implicits._```
+```
+import org.apache.spark.sql.functions._
+import spark.implicits._
+```
 
 - 1 / Loader le ficher csv
 - 2 / Typer la dataframe, notament les points et les prix
