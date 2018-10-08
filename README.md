@@ -21,8 +21,8 @@ https://docs.google.com/forms/d/e/1FAIpQLSfan3cshpWVFgAtbXtxD-x-l6yve3GGK72_kIQZ
 - 1 / Loader le ficher csv
 - 2 / Typer la dataframe, notament les points et les prix
 - 2 Bis / sauvegarder la donnée en parquet, partitioner par état
-- 2 Ter / Loader le fichier parquet de la France et de la Grèce. puis sauvegarder le en avro partitionner par cépage.
-l'objectif est d'avoir un seul fichier pas cépage
+- 2 Ter / Loader le fichier parquet de la France et de la Grèce. puis sauvegarder les données en avro partitionner par cépage.
+/!\ l'objectif est d'avoir un seul fichier pas cépage
 - 3 / Lister les cépages
 - 4 / Lister les cépages par pays
 - 5 / Afficher la courbe de distribution des points
