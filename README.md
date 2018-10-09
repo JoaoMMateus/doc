@@ -18,6 +18,8 @@ https://docs.google.com/forms/d/e/1FAIpQLSfan3cshpWVFgAtbXtxD-x-l6yve3GGK72_kIQZ
 
 # TD sur la base du fichier winemag_data_first150k-8c60b.csv
 
+# rendu le 21/10/2018 22h max
+
 - 0 / créer un notebook:
 la première cellule doit contenir : 
 ```
