@@ -25,6 +25,8 @@ import org.apache.spark.sql.functions._
 import spark.implicits._
 ```
 
+## tous les chemins de fichier doivent avoir pour racine $PWD/nom.prenom/
+
 - 1 / Loader le ficher csv
 - 2 / Typer la dataframe, notament les points et les prix
 - 2 Bis / sauvegarder la donnée en parquet, partitioner par état
